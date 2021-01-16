@@ -55,9 +55,7 @@ public class MasyvaiND3 {
                                     count++;
                                 }
                             }
-
                         }
-
                     }
                     // saves ismetimas, jei pirminiam lauke buvo gyvenama
                     if (field[g][h] == 'X') {

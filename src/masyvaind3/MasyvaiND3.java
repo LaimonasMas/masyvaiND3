@@ -15,8 +15,8 @@ public class MasyvaiND3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int size = 5;
-        char[][][] gameTable = new char[10000][size][size];
+//        int size = 5;
+//        char[][][] gameTable = new char[10000][size][size];
 
         char[][] field = new char[10][10];
 

@@ -76,9 +76,7 @@ public class MasyvaiND3 {
                     if (count == 2 && field[g][h] == '.') {
                         nextField[g][h] = '.';
                     }
-
                 }
-
             }
             System.out.println("-------------------");
 //             naujo lauko spausdinimas
